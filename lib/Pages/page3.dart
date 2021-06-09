@@ -546,8 +546,8 @@ class page32 extends StatelessWidget {
                             List<String> date = [];
                             dates = [];
                             check = true;
-                            min = 5300000000;
-                            max = 6500000000;
+                            min = 8000000000;
+                            max = 9500000000;
                             total = [0, 0, 0, 0, 0, 0, 0];
                             bool k = false;
                             type = 0;
@@ -618,8 +618,8 @@ class page32 extends StatelessWidget {
                           onTap: () {
                             spots = [];
                             dates = [];
-                            min = 87000000;
-                            max = 110000000;
+                            min = 120000000;
+                            max = 150000000;
                             check = true;
                             List<String> date = [];
                             total = [0, 0, 0, 0, 0, 0, 0];
@@ -684,8 +684,8 @@ class page32 extends StatelessWidget {
                         onTap: () {
                           spots = [];
                           dates = [];
-                          min = 3000000000;
-                          max = 7000000000;
+                          min = 5000000000;
+                          max = 9000000000;
                           check = true;
                           List<String> date = [];
                           total = [0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0];
@@ -758,8 +758,8 @@ class page32 extends StatelessWidget {
                         onTap: () {
                           spots = [];
                           dates = [];
-                          min = 50000000;
-                          max = 110000000;
+                          min = 80000000;
+                          max = 150000000;
                           check = true;
                           List<String> date = [];
                           total = [0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0];
@@ -838,8 +838,8 @@ class page32 extends StatelessWidget {
                               spots = [];
                               List<String> date = [];
                               dates = [];
-                              min = 5300000000;
-                              max = 6500000000;
+                              min = 8000000000;
+                              max = 9500000000;
                               total = [0, 0, 0, 0, 0, 0, 0];
                               bool k = false;
                               type = 0;

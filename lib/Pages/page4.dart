@@ -485,8 +485,8 @@ class page32 extends StatelessWidget {
                             List<String> date = [];
                             dates = [];
                             check = true;
-                            min = 510000000;
-                            max = 530000000;
+                            min = 540000000;
+                            max = 570000000;
                             total = [0, 0, 0, 0, 0, 0, 0];
                             bool k = false;
                             type = 0;
@@ -551,8 +551,8 @@ class page32 extends StatelessWidget {
                           onTap: () {
                             spots = [];
                             dates = [];
-                            min = 1000000;
-                            max = 3000000;
+                            min = 900000;
+                            max = 2000000;
                             check = true;
                             List<String> date = [];
                             total = [0, 0, 0, 0, 0, 0, 0];
@@ -617,8 +617,8 @@ class page32 extends StatelessWidget {
                         onTap: () {
                           spots = [];
                           dates = [];
-                          min = 450000000;
-                          max = 530000000;
+                          min = 500000000;
+                          max = 570000000;
                           check = true;
                           List<String> date = [];
                           total = [0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0];
@@ -685,7 +685,7 @@ class page32 extends StatelessWidget {
                         onTap: () {
                           spots = [];
                           dates = [];
-                          min = 1000000;
+                          min = 900000;
                           max = 3000000;
                           check = true;
                           List<String> date = [];
@@ -765,8 +765,8 @@ class page32 extends StatelessWidget {
                               spots = [];
                               List<String> date = [];
                               dates = [];
-                              min = 510000000;
-                              max = 530000000;
+                              min = 540000000;
+                              max = 570000000;
                               total = [0, 0, 0, 0, 0, 0, 0];
                               bool k = false;
                               type = 0;
